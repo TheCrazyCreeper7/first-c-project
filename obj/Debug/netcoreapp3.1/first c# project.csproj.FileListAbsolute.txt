@@ -1,0 +1,39 @@
+C:\Users\user\Desktop\first c# project\bin\Debug\netcoreapp3.1\first c# project.exe
+C:\Users\user\Desktop\first c# project\bin\Debug\netcoreapp3.1\first c# project.deps.json
+C:\Users\user\Desktop\first c# project\bin\Debug\netcoreapp3.1\first c# project.runtimeconfig.json
+C:\Users\user\Desktop\first c# project\bin\Debug\netcoreapp3.1\first c# project.runtimeconfig.dev.json
+C:\Users\user\Desktop\first c# project\bin\Debug\netcoreapp3.1\first c# project.dll
+C:\Users\user\Desktop\first c# project\bin\Debug\netcoreapp3.1\first c# project.pdb
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.AssemblyInfo.cs
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.dll
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.pdb
+C:\Users\user\Desktop\first c# project\obj\Debug\netcoreapp3.1\first c# project.genruntimeconfig.cache
+C:\Users\user\Desktop\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.exe
+C:\Users\user\Desktop\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.deps.json
+C:\Users\user\Desktop\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.runtimeconfig.json
+C:\Users\user\Desktop\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.runtimeconfig.dev.json
+C:\Users\user\Desktop\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.dll
+C:\Users\user\Desktop\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.pdb
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.AssemblyInfo.cs
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.dll
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.pdb
+C:\Users\user\Desktop\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.genruntimeconfig.cache
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.exe
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.deps.json
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.runtimeconfig.json
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.runtimeconfig.dev.json
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.dll
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\bin\Debug\netcoreapp3.1\first c# project.pdb
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.AssemblyInfo.cs
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.dll
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.pdb
+C:\Users\user\Desktop\דברים חשובים\develop Projects\first c# project\obj\Debug\netcoreapp3.1\first c# project.genruntimeconfig.cache
